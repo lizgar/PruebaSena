@@ -1,0 +1,62 @@
+
+body{
+    background-color: #ED6CA6;
+}
+
+.buscar{
+    background-color: white;
+}
+.nosotros{ 
+    height: 40vh;
+}
+.nosotros h1{
+    color: white;
+    padding: 50px;
+    font-size: 3em;
+    text-align: center;
+}
+.nosotros p{
+    color: white;
+    padding: 20px;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.foto img{
+    padding: 20px;
+    height: 90%;
+    width: 70%;
+}
+
+.logof img{
+    padding: 20px;
+    height: 20vh;
+    width: 45vh;
+}
+
+.logof{
+    margin: auto;
+    text-align: center;
+}
+
+.foto{
+    margin: auto;
+    text-align: center; 
+}
+
+.manual{
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.41);
+    height: 10vh;
+    width: 40vh;
+    border-radius: 5px;
+}
+
+.manual a{
+    color: purple;
+    position: relative;
+    left: 15vh;
+    bottom: -3vh;
+    text-decoration: none;
+    font-size: 1.5em;
+}

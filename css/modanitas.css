@@ -1,0 +1,313 @@
+
+
+.barra{
+    background-color: #ED6CA6;
+}
+
+.logo{
+    width: 170px;
+}
+.logo img{
+    width: 60%;
+}
+
+.lista{
+    width: 100%;
+    height: 100%;
+}
+.lista ul{
+    margin: 0;
+}
+
+.lista a{
+    font-family: 'PT Serif', serif;
+    font-size: 1.5em;
+    color: white;
+}
+
+.carru img{
+    width: 100%;
+    height: 10%;
+}
+
+
+.buscar input{
+   /* outline: solid 2px rgb(0, 255, 0);*/
+    outline: none;
+    width: 95%;
+    border: none;
+}
+
+.buscar ::placeholder{
+    /*outline: solid red 2px;*/ 
+    padding: 10px;
+}
+
+
+
+.lupa{
+    padding: 20px;
+    /*outline: solid 2px red;*/ 
+}
+
+/*barra 2*/ 
+
+.nav2{
+    /*outline: solid green 2px;*/
+    padding: 5vh;
+    height: 100%;
+    background-color: #ED6CA6;
+}
+
+.barrita{
+    /*outline: solid 2px blueviolet;*/
+    height: 8.4vh;
+    width: 50vh;
+    border-radius: 60px;
+    background-color: rgb(228, 120, 186);
+    
+    
+}
+
+.camisetas{
+   position: relative;
+   left: 10vh;
+   height: 100%;
+   width: 100%;
+   /*outline: red solid 2px;*/
+}
+.letra{
+    font-family: 'Oleo Script', cursive;
+    color: black;
+    font-size: 1.5em;
+    bottom: 50px;
+    position: relative;
+    /*outline: solid 2px blue;*/
+    text-align: center;
+}
+.cir{
+    /*outline: solid green 2px;*/
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-image: url(../imagenes/camisa.png);
+    
+}
+
+.cir1{
+    /*outline: solid green 2px;*/
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-image: url(../imagenes/blusa.jpg);
+    
+}
+
+.cir2{
+    /*outline: solid green 2px;*/
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-image: url(../imagenes/jean);
+    
+}
+
+.cir3{
+    /*outline: solid green 2px;*/
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-image: url(../imagenes/acce.png);
+    
+}
+
+.cir4{
+    /*outline: solid green 2px;*/
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-image: url(../imagenes/depo.jpg);
+    
+}
+
+.cir5{
+    /*outline: solid green 2px;*/
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-image: url(../imagenes/zapaa.png);
+    
+}
+
+.spot{
+     background-color: #faa0c9;
+     height: 100%;
+     padding: 10px;
+}
+
+.spot img{
+    height: 100%;
+    width: 100%;
+}
+
+.video{
+    border-radius: 10px;
+    position: absolute;
+   top: 135vh;
+    left: 45%;
+   }
+   
+
+.rapi{
+    height: 100%;
+    width: 100%;
+    /*outline: solid red 2px;*/
+    display: flex;
+}
+.der{
+   
+    height: 50vh;
+    width: 50%;
+}
+
+.der h1{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 40vh;
+}
+
+.izq{
+    height: 50vh;
+    width: 50%;
+}
+
+.izq h1{
+ text-decoration: none;
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 40vh;
+}
+
+
+/*FOOOTER*/
+
+.footer{
+    width: 100%;
+    /*outline: solid red 2px;*/
+    background-image: url(../imagenes/fundo.png);
+    display: flex;
+}
+
+.color{
+    height: 70vh;
+    width: 110vh;
+  
+}
+
+.color h1{
+    color: white;
+     /*outline: solid green 2px;*/
+    padding: 10vh;
+}
+
+.color h2{
+    color: white;
+     /*outline: solid green 2px;*/
+    padding: 9vh;
+    position: relative;
+    bottom: 12vh;
+}
+
+.buscal{
+    position: relative;
+    padding: 9vh;
+    bottom: 25vh;
+     /*outline: solid green 2px;*/
+    display: flex;
+}
+
+.busqui{
+    outline: none;
+    border: none;
+    width: 40vh;
+    height: 7vh;
+    border-radius: 50px;
+}
+
+.lupis{
+    position: relative;
+    right: 8vh;
+    bottom: 5px;
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    background-color: #ED6CA6;
+    
+}
+/* parte mujer*/
+
+.mujeri{
+    width: 100%;
+    height: 100%;
+}
+
+.mujeri img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.barrap{
+   background: #ffffff;
+}
+
+.logo{
+    width: 170px;
+}
+.logo img{
+    width: 60%;
+}
+
+.lista2{
+    padding: 5px;
+   
+   
+   
+}
+.lista2 ul{
+    color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+.lista2 a{
+    margin: auto;
+    font-family: 'PT Serif', serif;
+    font-size: 1.5em;
+    color: rgb(0, 0, 0);
+}
+
+
+.productos{
+    padding: 50px;
+    background-color: #faa0c9;
+}
+
+#camisas .container { 
+    padding: 15px;
+    display: flex;
+}
+
+#camisas img {
+    height: 90%;
+   width: 90%;
+}
+
+#camisas img:hover{
+  border: 2px solid black;
+}
+
+
+

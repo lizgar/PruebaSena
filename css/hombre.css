@@ -1,0 +1,112 @@
+
+
+.barra{
+    background-color: #0187f5;
+}
+
+.logo{
+    width: 170px;
+}
+.logo img{
+    width: 60%;
+}
+
+.lista{
+    width: 100%;
+    height: 100%;
+}
+.lista ul{
+    margin: 0;
+}
+
+.lista a{
+    font-family: 'PT Serif', serif;
+    font-size: 1.5em;
+    color: white;
+}
+
+.carru img{
+    width: 100%;
+    height: 10%;
+}
+
+
+.buscar input{
+   /* outline: solid 2px rgb(0, 255, 0);*/
+    outline: none;
+    width: 95%;
+    border: none;
+}
+
+.buscar ::placeholder{
+    /*outline: solid red 2px;*/ 
+    padding: 10px;
+}
+
+
+
+.lupa{
+    padding: 20px;
+    /*outline: solid 2px red;*/ 
+}
+
+
+.mujeri{
+    width: 100%;
+    height: 100%;
+}
+
+.mujeri img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.barrap{
+   background: #ffffff;
+}
+
+.logo{
+    width: 170px;
+}
+.logo img{
+    width: 60%;
+}
+
+.lista2{
+    padding: 5px;
+   
+   
+   
+}
+.lista2 ul{
+    color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+.lista2 a{
+    margin: auto;
+    font-family: 'PT Serif', serif;
+    font-size: 1.5em;
+    color: rgb(0, 0, 0);
+}
+
+
+.productos{
+    padding: 50px;
+    background-color: #0187f5;
+}
+
+#camisas .container { 
+    padding: 15px;
+    display: flex;
+}
+
+#camisas img {
+    height: 90%;
+   width: 90%;
+}
+
+#camisas img:hover{
+  border: 2px solid black;
+}
